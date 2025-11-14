@@ -1,22 +1,42 @@
-# CSCI6366_Neural-Networks-and-Deep-Learning
+# 📌**CSCI6366_Neural-Networks-and-Deep-Learning**
 Comparative Analysis of Activation Functions in Deep Learning
 
-Team Members: Sapu Du G36715715   Zhitao Liu G48328246   Lareina Cao G27616034
+## 👥Team Members: 
+Sapu Du G36715715  
+Zhitao Liu G48328246   
+Lareina Cao G27616034
 
-📖 Project Overview
-This final project conducts a comprehensive comparative analysis of several fundamental and modern activation functions in deep learning. Activation functions are crucial components that introduce non-linearity into neural networks, enabling them to learn complex patterns.
+## 📖 Project Overview
+This project investigates how different activation functions affect model performance across two distinct machine learning tasks: image classification and loan default prediction.
+We systematically evaluate four activation functions — Linear, Sigmoid, ReLU, and Leaky ReLU — under varying hyperparameter settings (learning rate, initialization, etc.).
 
-We systematically evaluate the performance of the following activation functions across different model architectures and hyperparameter settings:
+The project consists of two tasks:
 
-Linear, Sigmoid, ReLU, Leaky ReLU.
+**Task 1: Image Classification**  
+Model: Convolutional Neural Network (CNN)  
+Dataset: Fashion-MNIST  
+Goal: Assess activation function performance in a complex, high-dimensional vision task.
 
-The primary goal is to provide practical, empirical insights into how these functions influence training dynamics, convergence speed, and final model performance. The results of this survey aim to serve as a guide for selecting or designing activation functions to improve the efficiency and robustness of deep neural networks.
+**Task 2: Loan Default Prediction**  
+Model: Multi-Layer Perceptron (MLP)  
+Dataset: Tabular loan data  
+Goal: Compare activation functions in a structured data prediction problem.
 
-🎯 Key Objectives
+Through experiments on these two tasks, we aim to understand how activation functions behave across different data modalities and model architectures.
+
+
+## 📂 Datasets and Sources
+**Fashion-MNIST**  
+Source: https://www.kaggle.com/datasets/zalando-research/fashionmnist?resource=download
+
+**Loan Data**  
+Source: https://www.kaggle.com/datasets/zhijinzhai/loandata
+
+## 🎯 Key Objectives
 To implement and benchmark a diverse set of activation functions.
 
 To analyze their performance across different model architectures (e.g., MLP, CNNs).
 
 To investigate their behavior under various hyperparameter combinations (e.g., learning rates, optimizers).
 
-To compare key metrics such as training/validation accuracy, loss convergence, and model robustness.
+To compare key metrics such as training time，training/validation accuracy, loss convergence, and model robustness.
