@@ -2,9 +2,9 @@
 Comparative Analysis of Activation Functions in Deep Learning
 
 ## 👥Team Members: 
-Sapu Du G36715715  
-Zhitao Liu G48328246   
-Lareina Cao G27616034
+*Sapu Du* G36715715, GitHub username: Cuka3077  
+*Zhitao Liu* G48328246, GitHub username: liutian388-netizen  
+*Lareina Cao* G27616034, GitHub username: Lareina-c  
 
 ## 📖 Project Overview
 This project investigates how different activation functions affect model performance across two distinct machine learning tasks: image classification and loan default prediction.
