@@ -19,7 +19,7 @@ Goal: Assess activation function performance in a complex, high-dimensional visi
 
 **Task 2: Loan Default Prediction**  
 Model: Multi-Layer Perceptron (MLP)  
-Dataset: Tabular loan data  
+Dataset: Loan data  
 Goal: Compare activation functions in a structured data prediction problem.
 
 Through experiments on these two tasks, we aim to understand how activation functions behave across different data modalities and model architectures.
