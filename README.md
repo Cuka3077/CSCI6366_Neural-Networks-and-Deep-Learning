@@ -8,7 +8,7 @@ Comparative Analysis of Activation Functions in Deep Learning
 
 ## 📖 Project Overview
 This project investigates how different activation functions affect model performance across two distinct machine learning tasks: image classification and loan default prediction.
-We systematically evaluate four activation functions — Linear, Sigmoid, ReLU, and Leaky ReLU — under varying hyperparameter settings (learning rate, initialization, etc.).
+We systematically evaluate four activation functions — Linear, Sigmoid, ReLU, and Leaky ReLU — under CNN and MLP.
 
 The project consists of two tasks:
 
